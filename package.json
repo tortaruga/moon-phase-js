@@ -1,0 +1,21 @@
+{
+  "name": "moon-phase-js",
+  "version": "1.0.0",
+  "description": "Calculate moon phase, emoji, and illumination for any date",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tortaruga/moon-phase-js.git"
+  },
+  "keywords": ["moon", "phase", "astronomy", "lunar"],
+  "author": "tortaruga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tortaruga/moon-phase-js/issues"
+  },
+  "homepage": "https://github.com/tortaruga/moon-phase-js#readme"
+}
