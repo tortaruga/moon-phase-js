@@ -7,7 +7,7 @@ A lightweight JavaScript utility to calculate the moon phase for any date, inclu
 ## 📦 Installation
 
 ```bash
-npm install moon-phase-js
+npm install @tortaruga/moon-phase-js
 ```
 
 🚀 Usage
