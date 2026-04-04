@@ -1,6 +1,6 @@
 {
   "name": "@tortaruga/moon-phase-js",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Calculate moon phase, emoji, and illumination for any date",
   "main": "index.js",
   "type": "module",

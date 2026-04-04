@@ -12,7 +12,7 @@ npm install @tortaruga/moon-phase-js
 
 🚀 Usage
 ```js
-import { getPhase, getEmoji, getIllumination } from "moon-phase-js";
+import { getPhase, getEmoji, getIllumination } from "@tortaruga/moon-phase-js";
 
 const date = new Date("2026-04-01");
 
